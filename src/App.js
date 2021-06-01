@@ -4,7 +4,7 @@ import ColorsApp from './ColorsApp';
 
 /** App
  * 
- * App -> Routes
+ * App -> ColorsApp
  */
 function App() {
   return (
